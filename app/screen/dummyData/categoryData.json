@@ -1,0 +1,116 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Cars & Vehicles",
+        "status": "Active",
+        "selected": false,
+        "subCategories": [
+          { "id": 101, "name": "Sedan", "status": "Active", "action": "Edit" },
+          { "id": 102, "name": "SUV", "status": "Inactive", "action": "Edit" },
+          { "id": 103, "name": "Truck", "status": "Active", "action": "Edit" },
+          { "id": 104, "name": "Motorcycle", "status": "Inactive", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Jobs",
+        "status": "Active",
+        "selected": false,
+        "subCategories": [
+          { "id": 201, "name": "Full-Time", "status": "Active", "action": "Edit" },
+          { "id": 202, "name": "Part-Time", "status": "Inactive", "action": "Edit" },
+          { "id": 203, "name": "Remote", "status": "Active", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Clothing, Shoes & Accessories",
+        "status": "Inactive",
+        "selected": false,
+        "subCategories": [
+          { "id": 301, "name": "Men", "status": "Active", "action": "Edit" },
+          { "id": 302, "name": "Women", "status": "Inactive", "action": "Edit" },
+          { "id": 303, "name": "Kids", "status": "Active", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Food & Agriculture",
+        "status": "Active",
+        "selected": false,
+        "subCategories": [
+          { "id": 401, "name": "Fruits", "status": "Active", "action": "Edit" },
+          { "id": 402, "name": "Vegetables", "status": "Inactive", "action": "Edit" },
+          { "id": 403, "name": "Grains", "status": "Active", "action": "Edit" },
+          { "id": 404, "name": "Dairy", "status": "Inactive", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Collectibles & Art",
+        "status": "Inactive",
+        "selected": false,
+        "subCategories": [
+          { "id": 501, "name": "Antiques", "status": "Inactive", "action": "Edit" },
+          { "id": 502, "name": "Paintings", "status": "Active", "action": "Edit" },
+          { "id": 503, "name": "Sculptures", "status": "Inactive", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Education",
+        "status": "Active",
+        "selected": false,
+        "subCategories": [
+          { "id": 601, "name": "Courses", "status": "Active", "action": "Edit" },
+          { "id": 602, "name": "Books", "status": "Inactive", "action": "Edit" },
+          { "id": 603, "name": "Workshops", "status": "Active", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Electronics",
+        "status": "Inactive",
+        "selected": false,
+        "subCategories": [
+          { "id": 701, "name": "Mobile Phones", "status": "Inactive", "action": "Edit" },
+          { "id": 702, "name": "Laptops", "status": "Active", "action": "Edit" },
+          { "id": 703, "name": "Accessories", "status": "Inactive", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Health & Beauty",
+        "status": "Active",
+        "selected": false,
+        "subCategories": [
+          { "id": 801, "name": "Skincare", "status": "Active", "action": "Edit" },
+          { "id": 802, "name": "Haircare", "status": "Inactive", "action": "Edit" },
+          { "id": 803, "name": "Fitness", "status": "Active", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Hobby & Sports",
+        "status": "Inactive",
+        "selected": false,
+        "subCategories": [
+          { "id": 901, "name": "Cycling", "status": "Inactive", "action": "Edit" },
+          { "id": 902, "name": "Fishing", "status": "Active", "action": "Edit" },
+          { "id": 903, "name": "Camping", "status": "Inactive", "action": "Edit" }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Home Appliances",
+        "status": "Active",
+        "selected": false,
+        "subCategories": [
+          { "id": 1001, "name": "Kitchen", "status": "Active", "action": "Edit" },
+          { "id": 1002, "name": "Laundry", "status": "Inactive", "action": "Edit" },
+          { "id": 1003, "name": "Air Conditioning", "status": "Active", "action": "Edit" }
+        ]
+      }
+    ]
+  }
